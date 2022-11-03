@@ -6,6 +6,12 @@ Description: This is our index page.
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
+__Tjena!__
 
-This is a sample home page written in markdown with some frontmatter defined.
+Min namn är Jonathan, är 22 år gammal och läser förtillfället Webbprogrammering på BTH.
+
+Är från Karlskrona, och har bott här hela mitt liv. Min fritid ägnar jag åt att gibba på pc.
+
+![A picture of me](%assets_url%/img/me.jpg){.me}
+
+_Detta är nog den senast tagna bilden på. För cirka 10 år sen._
