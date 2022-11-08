@@ -6463,6 +6463,16 @@ p {
   max-height: 200px;
 }
 
+.header {
+  display: flex;
+  gap: 15rem;
+}
+
+.site-header {
+  display: flex;
+  margin-left: 25%;
+}
+
 /* Blockquote */
 blockquote {
   font-style: italic;
