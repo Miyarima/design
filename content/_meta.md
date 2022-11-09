@@ -5,4 +5,14 @@ Social:
     - title: Link till sidans github repo.
       url: https://github.com/Miyarima/design
       icon: fab fa-github
+    - title: Link till Kursen.
+      url: https://dbwebb.se/kurser/design-v3
+      icon: fab fa-canadian-maple-leaf
+    - title: Min spel lista.
+      url: https://open.spotify.com/playlist/1iTCcackMk18TrLP6qQo22?si=f7af40538eaa43b4=1
+      icon: fab fa-spotify
+    - title: Link till Min steam profil.
+      url: https://steamcommunity.com/id/miyarima
+      icon: fab fa-steam
+      
 ---
