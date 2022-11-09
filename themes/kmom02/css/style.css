@@ -6497,6 +6497,7 @@ p {
   text-align: center;
   background-color: #ee6c4d;
   max-height: 200px;
+  margin-top: 10rem;
 }
 
 .nav {
@@ -6509,6 +6510,8 @@ p {
 
 .active {
   background-color: #ee6c4d;
+  text-align: center;
+  min-width: 3em;
   border-radius: 3px;
 }
 
