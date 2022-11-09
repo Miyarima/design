@@ -6494,10 +6494,19 @@ p {
   }
 }
 .footer {
-  text-align: center;
+  display: flex;
+  justify-content: center;
   background-color: #ee6c4d;
   max-height: 200px;
   margin-top: 10rem;
+}
+
+.footer a {
+  text-decoration: none;
+  font-size: 1.54rem;
+  position: relative;
+  top: 0.5em;
+  left: 30rem;
 }
 
 .nav {
