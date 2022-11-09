@@ -12,7 +12,12 @@ body {
     font-family: 'Lora', serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-size: 3em;
     margin-bottom: $magic-number * 2;
     font-family: 'Inter', sans-serif; 
@@ -31,7 +36,7 @@ p {
 }
 
 @media (min-width: 64em) {
-  html {
-    font-size: 112.5%;
-  }
+    html {
+        font-size: 112.5%;
+    }
 }

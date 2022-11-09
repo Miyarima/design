@@ -6,9 +6,12 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../node_modules/normalize.css/normalize';
 @import 'variables';
 
+@import 'test';
+
+@import 'header';
 @import 'typography';
 @import 'footer';
-@import 'header';
+@import 'nav';
 
 @import 'blockquotes';
 @import 'code';

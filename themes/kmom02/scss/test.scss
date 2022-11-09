@@ -1,0 +1,21 @@
+.old-fashioned {
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
+
+.modern {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: $base-font-size;
+    margin-bottom: $magic-number;
+    font-weight: 600;
+}
+
+.worst-ever {
+    color: rgb(255, 148, 148);
+    background-color: rgb(151, 151, 255);
+    line-height: 1em;
+    font-weight: lighter;
+    letter-spacing: -3px;
+    // transform: rotate(90deg);
+    width: 20rem;
+}
