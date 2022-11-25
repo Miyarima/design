@@ -11,6 +11,18 @@
     display: flex;
 }
 
+.nav a,
+a h1,
+a i {
+    color: $font-color;
+}
+
+.title{
+    a p {
+        color: $font-alternative-strong;
+    }   
+}
+
 @media screen and (max-width: 64em) {
     .header {
         gap: 0;

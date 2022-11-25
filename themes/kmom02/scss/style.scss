@@ -24,8 +24,19 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 
 body {
     background-color: $background-color;
+
+    strong {
+        color: $font-alternative-strong;
+    }
 }
+
+h1 {
+    color: $font-alternative-color;
+}
+
 
 * {
     color: $font-color;
 }
+
+
