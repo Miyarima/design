@@ -4,9 +4,8 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
 @import '../../node_modules/normalize.css/normalize';
-@import 'variables';
-
-@import 'test';
+@import 'variables-dark';
+@import 'base';
 
 @import 'header';
 @import 'typography';
@@ -21,11 +20,18 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'blockquotes';
 @import 'code';
 
-
-body {
-    background-color: $background-color;
-}
+@import 'test';
 
 * {
     color: $font-color;
+}
+
+.nav a, 
+a h1, 
+a i {
+    color: $font-alternative-color;
+}
+
+code {
+    color: $background-color;
 }

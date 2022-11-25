@@ -6422,25 +6422,8 @@ template {
   display: none;
 }
 
-.old-fashioned {
-  font-family: "Times New Roman", Times, serif;
-  letter-spacing: 2px;
-}
-
-.modern {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.1rem;
-  margin-bottom: 1.54rem;
-  font-weight: 600;
-}
-
-.worst-ever {
-  color: rgb(255, 148, 148);
-  background-color: rgb(151, 151, 255);
-  line-height: 1em;
-  font-weight: lighter;
-  letter-spacing: -3px;
-  width: 20rem;
+body {
+  background-color: #121212;
 }
 
 .header {
@@ -6505,7 +6488,7 @@ p {
 .footer {
   display: flex;
   justify-content: center;
-  background-color: #ee6c4d;
+  background-color: #5E4242;
   max-height: 200px;
   margin-top: 10rem;
 }
@@ -6536,7 +6519,7 @@ p {
 }
 
 .active {
-  background-color: #ee6c4d;
+  background-color: #5E4242;
   border-radius: 3px;
 }
 .active a {
@@ -6571,8 +6554,8 @@ p {
 }
 
 .techno-box header {
-  background-color: #ee6c4d;
-  color: #222;
+  background-color: #5E4242;
+  color: #fff;
 }
 
 .first-left {
@@ -6811,10 +6794,37 @@ pre code {
   line-height: 1.4;
 }
 
-body {
-  background-color: #fff6f1;
+.old-fashioned {
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 2px;
+}
+
+.modern {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1rem;
+  margin-bottom: 1.54rem;
+  font-weight: 600;
+}
+
+.worst-ever {
+  color: rgb(255, 148, 148);
+  background-color: rgb(151, 151, 255);
+  line-height: 1em;
+  font-weight: lighter;
+  letter-spacing: -3px;
+  width: 20rem;
 }
 
 * {
-  color: #222;
+  color: #fff;
+}
+
+.nav a,
+a h1,
+a i {
+  color: #ccc;
+}
+
+code {
+  color: #121212;
 }

@@ -14,4 +14,4 @@ Min namn är Jonathan, är 22 år gammal och läser förtillfället Webbprogramm
 
 ![A picture of me](%assets_url%/img/me.jpg){.me}
 
-_Detta är nog den senast tagna bilden på. För cirka 10 år sen._
+_Detta är nog den senast tagna bilden på mig. För cirka 10 år sen._
