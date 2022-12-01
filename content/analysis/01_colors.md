@@ -56,7 +56,7 @@ kommer från reklam noteras inte. Ett color picker extension används för att s
 
 <div class="fifth-row">
 <strong>Swedbank.se</strong>
-<img class="img" src="%assets_url%/img/swedbank.png" alt="en bild på swedbanks sida.">
+<img class="img" src="%base_url%/image/swedbank.png" alt="en bild på swedbanks sida.">
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: #fca51a">
@@ -75,7 +75,7 @@ med dessa färger.
 
 <div class="sixth-row">
 <strong>Netonnet.se</strong>
-<img class="img" src="%assets_url%/img/netonnet.png" alt="en bild på netonnet sida.">
+<img class="img" src="%base_url%/image/netonnet.png" alt="en bild på netonnet sida.">
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: #ED1C24">
@@ -95,7 +95,7 @@ element som fångar blicken, och leder en vidare på webbplatsen.
 
 <div class="seventh-row">
 <strong>Expressen.se</strong>
-<img class="img" src="%assets_url%/img/expressen.png" alt="en bild på expressens sida.">
+<img class="img" src="%base_url%/image/expressen.png" alt="en bild på expressens sida.">
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: #E30613">

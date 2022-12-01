@@ -18,6 +18,14 @@ Hör nu på, goävanner, så ska jag för er berätta vad vår Emil gjorde en da
 Nästa hyss han gjorde var när han i grönsakssoppan dök på huvet ner og sen satt där stenhårt fast uti mor sins soppskål, ty hans öron var för stora, så det blev att fara till doktorn det med hast. Hujedamej, sånt barn han var, tror inte också ni, att den som blott en soppskål har vill ej ha gossar i?
 </p>
 
+![A picture of sprinters](%base_url%/image/movement.jpg?w=900&f=colorize,100,0,0,0)
+![A picture of sprinters](%base_url%/image/movement.jpg?w=900&f=negate)
+![A picture of sprinters](%base_url%/image/movement.jpg?w=900&convolve=draw)
+![A picture of sprinters](%base_url%/image/movement.jpg?w=900&convolve=draw:edge-alt:emboss-alt:motion)
+
+![A picture of sprinters](%assets_url%/img/movement.png)
+![A picture of sprinters](%base_url%/image/movement.png?w=900&save-as=jpg&q=50)
+
 <!-- <div class="grid wrapper">
     <div class="header">Header</div>
 

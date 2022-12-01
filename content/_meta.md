@@ -1,5 +1,5 @@
 ---
-Logo: assets/img/umaru-chan-chibi_256x256.png
+Logo: image/umaru-chan-chibi_256x256.png
 Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
