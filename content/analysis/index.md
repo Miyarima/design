@@ -10,14 +10,14 @@ Analysis
 <div class="techno-box first-rap">
 <a href="%base_url%?analysis/01_colors">
     <h2>Colors</h2>
-    <img src="%base_url%/assets/img/color.jpg">
+    <img src="%base_url%/image/color.jpg">
 </a>
 </div>
 
 <div class="techno-box second-rap">
 <a href="%base_url%?analysis/02_load">
     <h2>Load</h2>
-    <img src="%base_url%/assets/img/html.jpg">
+    <img src="%base_url%/image/loading.jpg">
 </a>
 </div>
 
