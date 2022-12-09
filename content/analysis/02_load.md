@@ -33,7 +33,7 @@ Nätverksfliken används också för att se hur många resurser som laddas och s
 <div class="fourth-row">
 <h2>Resultat</h2>
 <div class="embed-container">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVcsCxKzVkRBqGb40xZULPHUPZO_OlH_0rZnUdcX44-HVgeWfeF0lhceRVYpyhqnCe3RhRH7g5jaqs/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe title="googlesheets" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVcsCxKzVkRBqGb40xZULPHUPZO_OlH_0rZnUdcX44-HVgeWfeF0lhceRVYpyhqnCe3RhRH7g5jaqs/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 </div>
 

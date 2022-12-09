@@ -82,5 +82,5 @@ Template: gallery
 </div>
 
 <div class="embed-container">
-    <iframe src="https://www.youtube.com/embed/nDqaTXqCN-Q" frameborder="0" allowfullscreen></iframe>
+    <iframe title="Ijime, dame, Zettai" src="https://www.youtube.com/embed/nDqaTXqCN-Q" frameborder="0" allowfullscreen></iframe>
 </div>
