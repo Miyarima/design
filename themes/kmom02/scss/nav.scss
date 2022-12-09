@@ -1,16 +1,16 @@
 .nav {
-    font-weight: bolder;
+    a {
+        text-decoration: none;
+    }
 }
 
 .nav a:hover {
-    text-decoration: none;
+    color: $accent-color;
+    // border-bottom: 1px solid $font-color;
 }
 
 .active {
-    background-color: $accent-color;
-    border-radius: 3px;
-    
     a {
-        text-decoration: none;
+        border-bottom: 1px solid $font-color;
     }
 }

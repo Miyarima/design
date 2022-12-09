@@ -4,6 +4,8 @@ Description: Documentation that came with Pico.
 # hidden: true
 ---
 
+<h1 class="center">Pico</h1>
+
 ## Welcome to Pico
 
 Congratulations, you have successfully installed [Pico][] %version%.

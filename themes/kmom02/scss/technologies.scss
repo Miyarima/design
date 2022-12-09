@@ -3,6 +3,13 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: repeat(6, 200px);
     gap: 2em;
+
+    .titel {
+        text-align: center;
+        grid-column: 1 / 4;
+        grid-row: 1 / 2;
+    }
+
 }
 
 .techno-box {

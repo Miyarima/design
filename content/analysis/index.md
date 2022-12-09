@@ -4,8 +4,7 @@ Description: Some of the techniques we use.
 Template: technologies
 ---
 
-Analysis
-=================
+<h1 class="titel">Analysis</h1>
 
 <div class="techno-box first-rap">
 <a href="%base_url%?analysis/01_colors">

@@ -87,22 +87,22 @@
         width: 55%;
         height: 55%;
     }
+
+    .all-left {
+        padding: 2em;
+        grid-column: 1 / 1;
+        grid-row: 2 / 15;
+    
+        p {
+            font-weight: bold;
+        }
+    
+        a {
+            text-decoration: underline solid $font-color;
+        }
+    }
 }
 
-.all-left {
-    padding: 2em;
-    grid-column: 1 / 1;
-    grid-row: 1 / 15;
-
-    p {
-        font-weight: bold;
-        font-size: 1.4em;
-    }
-
-    a {
-        text-decoration: underline solid $font-color;
-    }
-}
 
 @media screen and (max-width: 960px) {
     .reports {

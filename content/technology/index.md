@@ -4,8 +4,7 @@ Description: Some of the techniques we use.
 Template: technologies
 ---
 
-Technologies
-=================
+<h1 class="titel">Technologies</h1>
 
 <div class="techno-box first-left">
 <a href="%base_url%?technology/css">

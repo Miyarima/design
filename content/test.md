@@ -3,8 +3,7 @@ Title: Test
 Description: This is my test page.
 ---
 
-Test
-==========================
+<h1 class="center">Test</h1>
 
 <p class="old-fashioned">
 Hör nu på, govänner, så ska jag för er berätta vad en gosse gjorde, det är nu längesen, men nog lever minnet kvar i Smålands sköna dalar, Katthult Lönneberga, det var den gossens hem. Hujedamej, sånt barn han var, Ej värre tänkas kan, Och Emil var det namn han bar, Ja, Emil hette han.

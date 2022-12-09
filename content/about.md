@@ -3,8 +3,7 @@ Title: About
 Description: Some of the techniques we use.
 ---
 
-About page
-==========================
+<h1 class="center">About page</h1>
 
 %meta.description% 
 
