@@ -21,8 +21,8 @@ Template: technologies
 </div>
 
 <div class="techno-box third-rap">
-<a href="%base_url%?analysis/03_design_priciples">
+<a href="%base_url%?analysis/03_design_principles">
     <h2>Design principles</h2>
-    <img src="%base_url%/assets/img/python.jpg" alt="a picture of design">
+    <img src="%base_url%/assets/img/design.jpg" alt="a picture of design">
 </a>
 </div>
